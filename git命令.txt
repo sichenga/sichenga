@@ -50,6 +50,7 @@
 切换分支 git checkout 分支名
 
 合并分支 git merge 分支名
+删除分支 给git branch -d 分支名
 
 
 团队合作自己的流程：
